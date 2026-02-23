@@ -6,3 +6,4 @@ i create little visual analysis for non technical persons to understand very qui
 
 
 This dashboard show the total sales of each prodect with quaterly and yearly basis.
+with all items sales.
