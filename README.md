@@ -13,7 +13,7 @@ The dataset includes daily sales of whole year for 12 menu items (Chai, Hot Coff
 
     - Calculate total annual revenue
 
-    - Compute GST (20%)
+    - Compute GST (12%)
 
     - Determine net profit
 
@@ -27,7 +27,7 @@ Total Units Sold: **36,715**
 
 Total Revenue: **₹15,08,855**
 
-Total GST Paid: **₹3,01,771**
+Total GST Paid: **₹1,81,062**
 
 Total Net Profit: **₹12,07,084**
 
