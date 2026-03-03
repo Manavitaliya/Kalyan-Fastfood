@@ -1,9 +1,53 @@
-# Kalyan-Fastfood
-This is sales analysis using Microsoft Excle.
+# ☕ Kalyan FastFood Corner – Annual Sales & Profit Analysis ☕
 
-Here, one cafe called kalyan fastfood corner have sales data of year 2024, Based on that 
-i create little visual analysis for non technical persons to understand very quicly and easly.
+## Project Overview
+
+This project presents a complete annual sales and profit analysis of Kalyan FastFood Corner using Microsoft Excel.
+
+The dataset includes daily sales of whole year for 12 menu items (Chai, Hot Coffee, Cold Coffee, Expresso, Latte, Veg Sandwich, Grill Sandwich, Thepla, Paratha, Pasta, Meggie, Samosa).
 
 
-This dashboard show the total sales of each prodect with quaterly and yearly basis.
-with all items sales.
+## Project Objectives
+
+    - Analyze quarterly sales performance
+
+    - Calculate total annual revenue
+
+    - Compute GST (20%)
+
+    - Determine net profit
+
+    - Identify top-performing products
+
+    - Visualize data using charts
+
+## Overall Annual Performance
+
+Total Units Sold: **36,715**
+
+Total Revenue: **₹15,08,855**
+
+Total GST Paid: **₹3,01,771**
+
+Total Net Profit: **₹12,07,084**
+
+## Key Insights
+
+Highest Selling Item: **Samosa (7,199 units)**
+
+Highest Revenue Generating Item: **Expresso (₹2,66,420)**
+
+Best Performing Quarter: **Q2 (11,169 units sold)**
+
+**Expresso** contributes the highest percentage in total revenue **(18%)**
+
+## Data Visualization
+
+The project includes:
+
+📊 **Bar Chart** – Quarterly Sales Comparison
+
+🥧 **Pie Chart** – Item-wise Revenue Contribution
+
+These visualizations help in understanding seasonal trends and product contribution to total revenue.
+
